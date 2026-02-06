@@ -40,3 +40,7 @@ while True :
     else:
         print("Invalid Choice!!!")
 
+'''I built a To-Do List application using Python.
+ It allows users to add, view, and delete tasks 
+ using lists, loops, and conditional statements.
+ It runs in a loop until the user exits.'''
